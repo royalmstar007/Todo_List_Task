@@ -22,6 +22,7 @@
     </ul>
     <div class="footer">
       <p id="total_task"></p>
+      <button id="clear">Clear</button>
     </div>
   </div>
 
